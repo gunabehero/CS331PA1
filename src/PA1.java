@@ -1,7 +1,9 @@
-//1.	Write an efficient function that compute the intersections of two sorted arrays of integers 
+// Ryan Gunawan
+// CS331-01 Programming Assignment 1
+
 import java.util.*;
 
-public class PJ1 {
+public class PA1 {
 
 	public static void main(String[] args) {
 		Random generator = new Random();
